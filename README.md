@@ -1,2 +1,1 @@
-# StrikeGPT-R1-20B-A3B
-StrikeGPT-R1-20B-A3B
+![img.gif](img.gif)
